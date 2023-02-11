@@ -4,5 +4,5 @@ These files contains code related which I had worked on deep learning.
 #all these code files can be run on jupiternotebook and also Anaconda must be installed before using jupiternotebook.
  #Then after completing installation we need to install pytorch in Anacond prompt,
  For instalation we need to run the following command in prompt
-   
- after completing installation we need to open the jupiternotebook and import the files to run 
+  [conda install pytorch torchivsion -c pytorch]
+ after completing installation we need to open the jupiternotebook and import the files to run  
